@@ -1,0 +1,12 @@
+# environment files
+.env*
+
+# compiled binary
+/out
+/sendkeys
+
+# output of various helper commands
+*.out
+
+# binaries
+/bin/
